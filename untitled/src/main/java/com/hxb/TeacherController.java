@@ -5,5 +5,6 @@ public class TeacherController {
         System.out.println("2021年12月27日15:05:18");
         System.out.println("2021年12月27日15:05:50");
         System.out.println("2021年12月27日15:06:49");
+        System.out.println("2021年12月27日15:07:06");
     }
 }
